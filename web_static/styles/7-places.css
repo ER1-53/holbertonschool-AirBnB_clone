@@ -1,0 +1,18 @@
+.places h1 {
+    font-size: 30px;
+}
+.places h2 {
+    font-size: 30px;
+    margin: auto;
+    width: 50%;
+}
+
+.places article {
+    display: flex;
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: solid 1px #FF5A5F ;
+    border-radius: 4px;
+    justify-content: center;
+}
